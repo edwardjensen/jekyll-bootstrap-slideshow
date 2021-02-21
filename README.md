@@ -10,6 +10,8 @@ Make sure that post-slideshow.html is in your Jekyll site's `_includes` folder. 
 slideshow-name:
   - image: /path/to/image/url
     caption: "Image caption"
+  - image: /path/to/second/image/url
+    caption: "Second image caption"
 ```
 
 The array can be as long as needed, just make sure each image is defined.
